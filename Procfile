@@ -1,1 +1,1 @@
-web: waitress-serve --port=$PORT your_module:app
+web: waitress-serve --port=$PORT app:app
