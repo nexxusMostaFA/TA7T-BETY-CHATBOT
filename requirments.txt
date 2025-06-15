@@ -1,0 +1,11 @@
+flask==2.3.3
+pymongo==4.5.0
+waitress==2.1.2
+langchain==0.0.314
+langchain-community==0.0.16
+faiss-cpu==1.7.4
+huggingface-hub==0.19.4
+sentence-transformers==2.2.2
+apscheduler==3.10.4
+pyngrok==7.0.3
+requests==2.31.0
